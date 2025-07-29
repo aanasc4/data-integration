@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Projeto específico
+data/raw/
+data/external/
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+Thumbs.db
+temp/
+tmp/
+*.tmp
+*.bak
+logs/
+*.log
+config/secrets.yaml
+config/credentials.json

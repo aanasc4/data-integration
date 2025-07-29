@@ -1,0 +1,4 @@
+Execução realizada em: 2025-07-29 12:30:09.980674
+Duração: 0:00:04.251770
+Registros processados: 35,117
+Status: Sucesso
